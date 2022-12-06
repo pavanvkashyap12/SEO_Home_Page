@@ -9,4 +9,4 @@
 ![Website Image](./assets/Output.PNG)
 
 ### Live Link Of The Website :
-[Live Link](https://pavan-SEO-home-page.netlify.app)
+[Live Link](https://pavan-seo-home-page.netlify.app)
